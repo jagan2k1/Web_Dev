@@ -1,0 +1,13 @@
+.pagination{
+    list-style-type: none;
+    text-decoration: none;
+
+}
+li{
+    display: inline;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    background-color: white;
+    
+} 
